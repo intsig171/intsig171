@@ -1,6 +1,6 @@
 
 
-<p align="center">
+<p align="left">
 <img src="https://github.com/intsig171/SmartCodable/assets/87351449/89de27ac-1760-42ee-a680-4811a043c8b1" alt="SmartCodable" title="SmartCodable" width="500"/>
 </p>
 
