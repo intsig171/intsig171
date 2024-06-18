@@ -2,8 +2,7 @@
 
 ### 你好，世界 👋
 
-- :orange_book: Focusing on Swift & iOS
-- :hammer: Creator of applications and frameworks
-- :ram: Founder of ObjCCN
--   :meat_on_bone: Meat lover
+- 📌: Focusing on Swift & iOS
+- 🛠️: Creator of applications and frameworks
+- 👀: [掘金博客](https://juejin.cn/user/3359704427793181)
 
