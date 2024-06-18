@@ -1,7 +1,8 @@
 
 
-![Smarter](https://github.com/intsig171/intsig171/assets/87351449/c03cd649-4bb5-4b41-8b39-a4f3b6d923b0)
-
+<p align="center">
+<img src="https://github.com/intsig171/SmartCodable/assets/87351449/89de27ac-1760-42ee-a680-4811a043c8b1" alt="SmartCodable" title="SmartCodable" width="400"/>
+</p>
 
 ![GitHub followers](https://img.shields.io/github/followers/intsig171?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/intsig171?style=social)
